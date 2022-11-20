@@ -45,7 +45,7 @@
 
 * Фронтенд:
     - [Next.js](https://nextjs.org/)
-    - JavaScript
+    - TypeScript
 
 ## 4. Дизайн
 
